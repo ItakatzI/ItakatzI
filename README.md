@@ -13,3 +13,6 @@ I thrive at the intersection of creativity and technology, and I'm always lookin
 
 📬 **Let’s connect**  
 Feel free to reach out or collaborate on something exciting!
+
+
+![snake gif](https://github.com/itaykatzir/itaykatzir/blob/output/github-contribution-grid-snake.svg)
