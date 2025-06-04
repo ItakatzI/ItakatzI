@@ -15,4 +15,5 @@ I thrive at the intersection of creativity and technology, and I'm always lookin
 Feel free to reach out or collaborate on something exciting!
 
 
-![snake gif](https://github.com/itaykatzir/itaykatzir/blob/output/github-contribution-grid-snake.svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=FF6E96&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Itai;Project+%26+Product+Manager;VR+%7C+Unity+%7C+Unreal+Dev;Automation+%7C+Productivity+Lover)
+
