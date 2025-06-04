@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi there, I'm Itai
 
-<!--
-**ItakatzI/ItakatzI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Project & Product Manager** who loves transforming ideas into practical, high-impact solutions.
 
-Here are some ideas to get you started:
+### 💡 What I’m passionate about:
+- 🤖 **Automation & Productivity** — streamlining workflows and boosting efficiency
+- 🕹️ **VR & Game Development** — building immersive experiences in **Unity** and **Unreal Engine**
+- 🛠️ **Development & Systems Thinking** — connecting dots between vision, code, and user experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I thrive at the intersection of creativity and technology, and I'm always looking to build meaningful, innovative projects.
+
+---
+
+📬 **Let’s connect**  
+Feel free to reach out or collaborate on something exciting!
