@@ -1,6 +1,6 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=FF6E96&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Itai;Project+Manager;Product+Manager;VR;Unity;Unreal;Automation;Productivity)
 
 
+# 👋 Hi there, I'm Itai
 
 I'm a **Project & Product Manager** who loves transforming ideas into practical, high-impact solutions.
 
@@ -18,3 +18,5 @@ Feel free to reach out or collaborate on something exciting!
 
 
 
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=000&center=false&vCenter=false&width=435&lines=Project+Manager;Product+Manager;VR;Unity;Unreal;Automation;Productivity)
