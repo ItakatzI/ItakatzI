@@ -2,9 +2,6 @@
 
 # 👋 Hi there, I'm Itai
 
-### I'm a 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=000000&center=false&vCenter=false&width=435&lines=Project+Manager;Product+Manager;VR+Developer;Unity+Enthusiast;Unreal+Engine+Explorer;Automation+Lover;Productivity+Nerd)
-
 I'm a **Project & Product Manager** who loves transforming ideas into practical, high-impact solutions.
 
 ### 💡 What I’m passionate about:
